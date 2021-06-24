@@ -1,0 +1,4 @@
+﻿  2_ЛР.cpp
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\2_ЛР\2_ЛР\2_ЛР.cpp(20,12): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\2_ЛР\2_ЛР\2_ЛР.cpp(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+  2_ЛР.vcxproj -> E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\2_ЛР\Debug\2_ЛР.exe
